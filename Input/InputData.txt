@@ -1,0 +1,34 @@
+ENCS2110;Jamal Seyam,Ibrahim Nemer,Ismail Khater,Adnan Yahya,Ismail Khater,Adnan Yahya,Khader Mohammad,Bilal Karaki
+ENCS2340;Ismail Khater,Ismail Khater,Mohammed Hussein,Bilal Karaki,Anjad Badran,Ibrahim Nemer,Ali Abdo,Anjad Badran
+ENCS2380;Abualseoud Hanani,Abualseoud Hanani
+ENCS311;Abualseoud Hanani
+ENCS3130;Mohammad Jubran,Mohammad Jubran,Khader Mohammad,Aziz Qaroush,Mohammad Jubran
+ENCS3310;Abdallatif Abuissa,Abdallatif Abuissa
+ENCS3320;Abdalkarim Awad,Ibrahim Nemer,Abdalkarim Awad
+ENCS3330;Khader Mohammad,Khader Mohammad
+ENCS3340;Aziz Qaroush,Aziz Qaroush
+ENCS3341;Mohammed Helal
+ENCS336;Mohammed Helal,Mohammed Helal
+ENCS3390;Yazan AbuFarha,Yazan AbuFarha,Bashar Tahayna,Bashar Tahayna
+ENCS411;Abdallatif Abuissa,Abdallatif Abuissa
+ENCS4110;Abualseoud Hanani,Abualseoud Hanani,Ayman Hroub,Ayman Hroub,Abualseoud Hanani
+ENCS412;Jamal Seyam,Wasel Ghanem,Wasel Ghanem
+ENCS4130;Mohammed Hussein
+ENCS4310;Alhareth Zyoud,Qadri Mayyala,Qadri Mayyala
+ENCS4320;Ahmad Alsadeh,Ahmad Alsadeh,Ahmad Alsadeh
+ENCS4330;Hanna Bullata,Hanna Bullata
+ENCS4370;Ayman Hroub,Aziz Qaroush,Ayman Hroub
+ENCS4380;Wasel Ghanem,Wasel Ghanem
+ENCS514;Hanna Bullata,Aziz Qaroush,Hanna Bullata,Hanna Bullata
+ENCS5150;Yazan AbuFarha,Mohammed Hussein,Yazan AbuFarha,Mohammed Hussein
+ENCS5322;Ahmad Alsadeh
+ENCS5332;Khader Mohammad
+ENCS5341;Yazan AbuFarha
+ENCS5399;Ayman Hroub
+ENEE2103;Mohammad AlJu'Beh,Nasser Ismail,Mohammad AlJu'Beh
+ENEE2304;Jaser Sa'Ed,Hakam Shehadeh
+ENEE2307;Mohammad Jubran,Alhareth Zyoud,Mohammad Jubran,Alhareth Zyoud,Jaser Sa'Ed
+ENEE2312;Jamal Seyam,Jamal Seyam
+ENEE2360;Nasser Ismail,Mohammad AlJu'Beh,Nasser Ismail
+ENEE3309;Wael Hashlamoun,Ashraf Al-Rimawi,Ashraf Al-Rimawi,Qadri Mayyala
+ENEE4113;Alhareth Zyoud,Ashraf Al-Rimawi,Qadri Mayyala,Wael Hashlamoun,Ashraf Al-Rimawi,Qadri Mayyala
