@@ -2,7 +2,7 @@
 ## Why I did this?
 This project has been done as a requirement for the ENCS3340 (Artificial Intelligence) course at Birzeit University. It can be viewed as an application of searching algorithms (local searching algorithms) in real world problems.
 
-## What is this proejct?
+## What is this project?
 
 Developing a department courses distribution is not an easy task. It has many variables: time slots, courses, sections, student priorities, teacher priorities etc. The aim of this project is to distribute the department courses with max diversity. The aim of this project is to use Genetic algorithm to optimize the distribution of the courses to achieve maximum diversity. The input for this project is the course browser of the current semester at Birzeit University
 
